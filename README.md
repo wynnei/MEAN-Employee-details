@@ -23,7 +23,7 @@ Landing page
 
 ### Links
 
-- Front end end  URL: [Front end github URL](https://github.com/wynnei/MEAN-Employee-details-FrontEnd)
+- Front end URL: [Front end github URL](https://github.com/wynnei/MEAN-Employee-details-FrontEnd)
 - Live Site URL: [Front end live URL](https://mean-employee-details-front-end.vercel.app/)
 
 ## My process
