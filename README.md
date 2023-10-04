@@ -24,7 +24,7 @@ Landing page
 ### Links
 
 - Back end  URL: [Back end github URL](https://github.com/wynnei/Restaurants-MERN-)
-- Live Site URL: [Front end live URL](https://restaurant-mern-frontend.onrender.com/)
+- Live Site URL: [Front end live URL](https://mean-employee-details-front-end.vercel.app/)
 
 ## My process
 
@@ -59,7 +59,7 @@ In the project directory, you can run:
 #### `ng serve -o`
 
 Runs the app in the development mode.\
-Open [https://restaurant-mern-frontend.onrender.com/](https://restaurant-mern-frontend.onrender.com/) to view it in your browser.
+Open [Frontend](https://mean-employee-details-front-end.vercel.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 
@@ -76,7 +76,7 @@ ng build command compiles an angular application/library into an output director
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [https://github.com/wynnei/Restaurants-MERN-](https://github.com/wynnei/Restaurants-MERN-) to access the backend
+Open [Backend](https://github.com/wynnei/Restaurants-MERN-) to access the backend
 
 The database reloads when you make changes.\
 
