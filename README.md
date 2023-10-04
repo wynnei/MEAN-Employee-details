@@ -23,7 +23,7 @@ Landing page
 
 ### Links
 
-- Back end  URL: [Back end github URL](https://github.com/wynnei/Restaurants-MERN-)
+- Front end end  URL: [Front end github URL](https://github.com/wynnei/MEAN-Employee-details-FrontEnd)
 - Live Site URL: [Front end live URL](https://mean-employee-details-front-end.vercel.app/)
 
 ## My process
@@ -76,7 +76,7 @@ ng build command compiles an angular application/library into an output director
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [Backend](https://github.com/wynnei/Restaurants-MERN-) to access the backend
+Open [Backend](https://github.com/wynnei/MEAN-Employee-details-FrontEnd) to access the backend
 
 The database reloads when you make changes.\
 
